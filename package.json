@@ -1,0 +1,10 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Henrique Saibert",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
